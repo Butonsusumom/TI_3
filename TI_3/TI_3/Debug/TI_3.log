@@ -1,0 +1,30 @@
+﻿  Source.cpp
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(108): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(132): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(145): warning C4244: 'argument': conversion from '__int64' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(150): warning C4101: 'ex': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(215): warning C4101: 'e': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(217): warning C4101: 'ch': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(215): warning C4101: 'te': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(255): warning C4101: 'byte': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(253): warning C4101: 'e': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(253): warning C4101: 'y': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(256): warning C4101: 'ch': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(253): warning C4101: 'te': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(350): warning C4101: 'hdc': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(349): warning C4101: 'ps': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(438): warning C4101: 'y': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(483): warning C4101: 'k': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(483): warning C4101: 'y': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(483): warning C4101: 'g': unreferenced local variable
+c:\users\ksusha\source\repos\ti_3\ti_3\source.cpp(514): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  TI_3.vcxproj -> C:\Users\Ksusha\Source\Repos\TI_3\Debug\TI_3.exe
